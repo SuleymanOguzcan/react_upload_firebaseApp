@@ -1,6 +1,6 @@
 _____________google firebase linked form upload prorem that i made using react js_____________
 
-Technologies I use:
+Technologies that I use:
 
 The project was built using ReactJS.
 
